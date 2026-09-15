@@ -1,16 +1,59 @@
-## Hi there 👋
+# shiluo
 
-<!--
-**shiluooo/shiluooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 102302113王泽炜 | 数据科学与大数据技术专业学生 
 
-Here are some ideas to get you started:
+## 🧑‍💻 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+你好！我是王泽炜，目前就读于【福州大学】数据科学与大数据技术专业
+
+- 🏫 学号：102302113
+- 🎓 年级：【24】
+- 💬 兴趣：AI 图像生成、前端开发、开源协作、游戏设计
+- 📫 邮箱：【1907076898@qq.com】
+
+## 🛠️ 技能与工具
+
+### 已掌握
+- 语言：Python、C、Java
+- 工具：Git、VS Code、Markdown
+- 框架：Flask、scikit-learn、HuggingFace Hub
+
+### 正在学习
+- HuggingFace AI 图像生成（Flux 模型）
+- 前端交互开发（HTML/CSS/JS + Flask）
+- GitHub 开源协作流程
+
+### 感兴趣的方向
+- 🤖 人工智能与机器学习
+- 🎨 AI 图像生成与 Prompt Engineering
+- 🌐 全栈 Web 开发
+- 📊 数据可视化与聚类分析
+
+## 📚 学习与实践经历
+
+### 课程项目
+1. **数据聚类实验** - 用 Python + scikit-learn 实现 K-Means 算法，对数据进行聚类分析与可视化
+2. **医学影像分析作业** - 用 Python 构建 CT 图像 3D 可视化展示
+3. **HuggingFace API 调用** - 调用 Flux 写实模型生成真实感图像，搭建 Flask + 前端交互界面
+
+## 🎯 未来三年规划
+
+- **第一年（2026秋）**：打好软件工程与 AI 基础，跟着课程完成更多实战项目，学好前端三件套
+- **第二年（2027）**：完成最后一年学业，最好准备就业
+- **第三年（2028）**：【就业】，目标方向：AI/后端开发
+
+## 💡 自我评估
+
+**做得好的方面**：
+- 学习主动性强，遇到问题会自己搜索解决
+- 动手实践能力较好，喜欢写小项目练手
+- 对 AI 和新技术有强烈好奇心
+
+**需要改进的方面**：
+- 前端技能还需要加强（目前只会基础 HTML/CSS）
+- GitHub 开源贡献还比较少，需要更多参与社区
+- 英语文档阅读速度有待提升
+
+---
+
+🌟 欢迎互相交流学习！
