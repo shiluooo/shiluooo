@@ -46,9 +46,14 @@ python arrow_game.py
 arrow_game.py       # 游戏主程序
 test_levels.py      # 关卡可通关性测试
 gen_levels.py       # 关卡自动生成器
-博客.md             # 开发随笔（博客源码）
 ```
 
 ## 📸 游戏截图
 
-（请把游戏运行截图贴到这里）
+<img width="489" height="564" alt="开始界面" src="https://github.com/user-attachments/assets/b17cf0bb-8067-46c9-a89a-d0309b4b68cb" />
+<img width="489" height="564" alt="选关" src="https://github.com/user-attachments/assets/0b6ceb64-313e-45ef-9fd6-57b6fbe54dbc" />
+<img width="489" height="564" alt="失误扣血" src="https://github.com/user-attachments/assets/f88cd28e-4f80-483b-af9f-5e5e5600054a" />
+<img width="489" height="564" alt="游戏界面" src="https://github.com/user-attachments/assets/0ce13d62-6c57-4043-94cd-3f4d03967a84" />
+<img width="489" height="564" alt="失败界面" src="https://github.com/user-attachments/assets/f6c5590a-313c-4c6e-b053-bae5af4689b6" />
+<img width="489" height="564" alt="通关界面" src="https://github.com/user-attachments/assets/ae2e0830-06bc-4f8f-979b-70ad5bbe5ced" />
+
